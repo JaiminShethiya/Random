@@ -1,0 +1,7 @@
+D:\Projects\James Project\Demo Project\ScaleTechPractical\ConsoleApp1\RandomDemo\bin\Debug\RandomDemo.exe.config
+D:\Projects\James Project\Demo Project\ScaleTechPractical\ConsoleApp1\RandomDemo\bin\Debug\RandomDemo.exe
+D:\Projects\James Project\Demo Project\ScaleTechPractical\ConsoleApp1\RandomDemo\bin\Debug\RandomDemo.pdb
+D:\Projects\James Project\Demo Project\ScaleTechPractical\ConsoleApp1\RandomDemo\obj\Debug\RandomDemo.csproj.CoreCompileInputs.cache
+D:\Projects\James Project\Demo Project\ScaleTechPractical\ConsoleApp1\RandomDemo\obj\Debug\RandomDemo.exe
+D:\Projects\James Project\Demo Project\ScaleTechPractical\ConsoleApp1\RandomDemo\obj\Debug\RandomDemo.pdb
+D:\Projects\James Project\Demo Project\ScaleTechPractical\ConsoleApp1\RandomDemo\obj\Debug\RandomDemo.csprojAssemblyReference.cache
